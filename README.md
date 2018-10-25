@@ -11,3 +11,5 @@ This is a small python tetris game.
 * os
 * copy
 * PyQt5
+
+For start: python Tetris_game.py
