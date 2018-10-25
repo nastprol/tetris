@@ -12,8 +12,8 @@ This is a small python tetris game.
 * copy
 * PyQt5
 
-For start: python Tetris_game.py
-You can control current block with LEFT and RIGHT
-Press SPACE for pause the game
-Press UP to turn current block
-Press DOWN to speed up current block
+For start: python Tetris_game.py/n
+You can control current block with LEFT and RIGHT/n
+Press SPACE for pause the game/n
+Press UP to turn current block/n
+Press DOWN to speed up current block/n
