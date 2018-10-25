@@ -15,7 +15,7 @@ This is a small python tetris game.
 
 For start: python Tetris_game.py
 
-#Controls
+# Controls
 * You can control current block with LEFT and RIGHT
 * Press SPACE for pause the game
 * Press UP to turn current block
